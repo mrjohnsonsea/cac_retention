@@ -102,3 +102,7 @@ All analysis was performed in Excel. Techniques used:
 ## Course Context
 
 This case study was completed as part of MARK 6601: Strategic Marketing Analytics in the Georgetown McDonough School of Business MSBA program. The dataset is based on publicly reported Facebook Q2 FY2019 earnings data combined with a provided customer-level engagement and cohort dataset.
+
+---
+
+README written with the assistance of [Claude Code](https://claude.ai/code) by Anthropic.
